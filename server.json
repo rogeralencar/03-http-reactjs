@@ -1,28 +1,36 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2024-08-26T12:58:57.445Z" 
-        },
-        {
-            "id": 2,
-            "description": "Hambúrguer",
-            "type": "outcome",
-            "category": "Comida",
-            "price": 50,
-            "createdAt": "2024-08-26T13:58:57.445Z" 
-        },
-        {
-            "id": 3,
-            "description": "Ignite Rocketseat",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 1950,
-            "createdAt": "2024-08-26T13:58:57.445Z" 
-        }
-    ] 
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-08-26T12:58:57.445Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Comida",
+      "price": 50,
+      "createdAt": "2024-08-26T13:58:57.445Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1950,
+      "createdAt": "2024-08-26T13:58:57.445Z"
+    },
+    {
+      "description": "Aporte",
+      "price": 1000,
+      "category": "Investimentos",
+      "type": "outcome",
+      "createdAt": "2024-08-29T11:35:24.356Z",
+      "id": 4
+    }
+  ]
 }
